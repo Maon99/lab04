@@ -1,2 +1,2 @@
 # lab04
-สำหรับทดสอบlab04
+for testing lab4
